@@ -7,3 +7,8 @@ Once again I will make another portfolio site, but this time it's with React
 - React Components for Material Design Lite
 - Font Awesome
 
+## Things to work on
+- accessibility needs work
+    - includes viewing on mobile/smaller screens
+- get rid of repeating code
+- css can be improved upon
