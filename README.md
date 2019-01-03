@@ -1,6 +1,9 @@
 # Andy React Portfolio
 Once again I will make another portfolio site, but this time it's with React
 
+## Sample resume found at
+- [Surge Portfolio Site](ajl-sample-portfolio.surge.sh)
+
 ## Technology used so far
 - HTML/CSS
 - React
