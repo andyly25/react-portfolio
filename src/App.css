@@ -22,7 +22,15 @@
     display: flex;
 }
 
-/* Contact page css*/
+/* RESUME PAGE BEGIN*/
+.resume-right-col {
+    background: #27221f;
+    color: white;
+    padding: 2em;
+}
+/* RESUME PAGE END*/
+
+/* Contact page css BEGIN*/
 .contact-body {
     margin: auto;
     position: fixed;
@@ -63,7 +71,7 @@
     font-size: 66px;
     padding-right: 5rem;
 }
-/* contact page css*/
+/* contact page css END*/
 
 .avatar-img {
     height: 250px;

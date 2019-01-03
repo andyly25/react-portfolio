@@ -26,7 +26,7 @@ class Contact extends Component {
                             rhoncus. Donec scelerisque tortor in leo suscipit
                             condimentum. Morbi dignissim nec ante a porta. Sed
                             iaculis quis sem a molestie. Aenean fringilla nibh
-                            efficitur risus convallis malesuada.{" "}
+                            efficitur risus convallis malesuada.
                         </p>
                     </Cell>
                     <Cell col={6}>
